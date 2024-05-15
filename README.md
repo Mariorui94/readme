@@ -1,7 +1,6 @@
-## Hi there 👋
+## <Hi there 👋/> 
 
-<!--
-**camilafernanda2/camilafernanda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Readme under construction
 
 Here are some ideas to get you started:
 
@@ -11,7 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 
@@ -44,4 +42,3 @@ Here are some ideas to get you started:
 Imagens encontradas em https://devicon.dev/
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 
--->
