@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
+<!--
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
+https://devicon.dev/
+-->
