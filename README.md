@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariorui94&show_icons=true&locale=en&layout=compact" alt="mariorui94" /></p>
-
-
 <!--
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 https://devicon.dev/
