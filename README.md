@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 </div>
 
 
-Imagens encontradas em https://devicon.dev/
-https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
-
